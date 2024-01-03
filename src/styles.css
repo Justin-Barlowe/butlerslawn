@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f8f8;
+}
+
+
+.brand-color {
+  color: #00764BFF;
+}
+
+.btn-primary {
+  background-color: #00764BFF;
+  border-color: #00764BFF;
+  margin-right: 10px;
+}
+
+.btn-primary:hover {
+  background-color: white;
+  color: #00764BFF;
+  border-color: #00764BFF;
+}
+
+.btn-outline-primary {
+  border-color: #00764BFF;
+  color: black;
+}
+
+.btn-outline-primary:hover {
+  background-color: #00764BFF;
+  color: white;
+  border-color: #00764BFF;
+}
+
+.backgroundimage {
+  margin: auto 0;
+  align-items: center;
+}
