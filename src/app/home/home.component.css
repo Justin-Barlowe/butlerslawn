@@ -1,0 +1,13 @@
+.hero-image {
+  width: 100%;
+}
+
+.intro-section {
+  background-image: url("/assets/lawn2.jpg");
+  width: 100%;
+  color: white;
+}
+
+.intro-section img {
+  width: 100%;
+}
